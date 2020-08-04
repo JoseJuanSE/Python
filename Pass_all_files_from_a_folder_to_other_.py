@@ -1,6 +1,6 @@
 from watchdog.observers import Observer
-import time
 from watchdog.events import FileSystemEventHandler 
+import time
 import os
 import json
 
