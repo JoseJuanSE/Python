@@ -1,2 +1,2 @@
-# Python-Automatizations
- Some interesing python automatizations
+# Python
+ Some interesing python things
